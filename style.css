@@ -1,0 +1,9 @@
+*{
+    margin:0;
+    font-family:arial;
+    border:border-box;
+}
+.navpanel{
+    background-color:black;
+    height:60px;
+}

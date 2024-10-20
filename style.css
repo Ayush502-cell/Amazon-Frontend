@@ -5,9 +5,11 @@
 }
 .navpanel{
     display:flex;
+    align-items:center;
     background-color:black;
     height:60px;
 }
+/**box1**/
 .logo{
     display:inline-block;
     height:56.8px;
@@ -20,23 +22,43 @@
 .logo:hover{
     border:1.5px solid white;
 }
+/**box2**/
 .address{
-    display:flex;
-    color:rgb(228, 213, 213);
-    height:50;
-    width:90;
+    display:inline-block;
+    margin:7px 4px 7px 0px;
+    border:1.5px solid transparent;
+}
+.add-first{
+    margin-left:15px;
     font-size:0.85rem;
-    border:2px solid transparent;
-
+    color:rgb(228, 213, 213);
 }
-.loc-logo{
+
+.loc-icon{
     display:flex;
+    align-items:center;
+    color:white;
+}
+.add-sec{
+    margin-left:5px;
     font-size:1rem;
+    color:rgb(253, 252, 252);
 }
-#gps{
-  
+.add-border{
+    height:58px;
+    width:88px;
+    border:1.5px solid transparent;
 }
-
-.address:hover{
+.add-border:hover{
     border:1.5px solid white;
+}
+/**box3**/
+.dropdown{
+    height:40px;
+    width:40px;
+
+}
+.search{
+    height:35px;
+    width:347px;
 }

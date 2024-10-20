@@ -4,6 +4,39 @@
     border:border-box;
 }
 .navpanel{
+    display:flex;
     background-color:black;
     height:60px;
+}
+.logo{
+    display:inline-block;
+    height:56.8px;
+    width:110px;
+    border:2px solid transparent;
+    background-image: url(logo.png);
+    background-size:cover;
+
+}
+.logo:hover{
+    border:1.5px solid white;
+}
+.address{
+    display:flex;
+    color:rgb(228, 213, 213);
+    height:50;
+    width:90;
+    font-size:0.85rem;
+    border:2px solid transparent;
+
+}
+.loc-logo{
+    display:flex;
+    font-size:1rem;
+}
+#gps{
+  
+}
+
+.address:hover{
+    border:1.5px solid white;
 }

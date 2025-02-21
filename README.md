@@ -25,4 +25,4 @@ This is a simple frontend clone of the Amazon website built using HTML and CSS. 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Ayush502-cell/GameGalaxy.git
+   git clone https://github.com/Ayush502-cell/Amazon-clone.git

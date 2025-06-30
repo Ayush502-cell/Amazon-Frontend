@@ -17,7 +17,7 @@
     display:inline-block;
     height:56.8px;
     width:110px;
-    background-image: url(logo.png);
+    background-image: url(images/logo.png);
     background-size:cover;
 
 }
@@ -138,7 +138,7 @@ span{
 /** hero section**/
 
 .hero-section{
-    background-image:url("hero_image1.jpg");
+    background-image:url("images/hero_image1.jpg");
     background-size:cover;
     height:350px;
     display:flex;
@@ -250,7 +250,7 @@ ul a {
 }
 
 .logo{
-    background-image: url(logoji.png);
+    background-image: url(images/logoji.png);
     background-size:cover;
     height:50px;
     width:150px;
